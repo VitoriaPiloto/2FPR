@@ -1,4 +1,4 @@
-# FUNDAMENTOS DE PROGRAMAÇÃO (2FPR) - REPOSITÓRIO COMPARTILHADO
+# FUNDAMENTOS DE PROGRAMAÇÃO (2FPR) 
 
 <p align="center">
 <img src="https://www.digitalcheck.com/wp-content/uploads/2020/08/man-computer-smiling-meme-500px.jpg" width="350px">
